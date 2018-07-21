@@ -1,3 +1,3 @@
 #!/usr/bin/python 
-admin_email="brijeshlakkad22@gmail.com"
-admin_password="214567267bB#21"
+admin_email="tempacc2179@gmail.com"
+admin_password="7046167267bB"
